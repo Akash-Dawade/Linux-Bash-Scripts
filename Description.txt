@@ -1,5 +1,1 @@
-This is an health checkup script to monitor the instance/VM/Machine health.
-
-- To check the free space on the machine.
-- To check the storage which is occuipide by the directory.
-- To check the processor count.
+This repo contains bash scripts. 
